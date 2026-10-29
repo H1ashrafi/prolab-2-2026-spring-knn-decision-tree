@@ -1,0 +1,41 @@
+{
+  "test_veri_boyutu": 1005,
+  "algolarr": {
+    "knn": {
+      "dogrulluk_yzdesi": 82.09,
+      "tahmiin_suresi_ms": 1570,
+      "kulanilan_belek_kb": 158720,
+      "karmasik_matris": {
+        "EV": {"EV": 15, "SÜT KAHVALTILIK": 3, "KOZMETİK": 2, "DETERJAN TEMİZLİK": 3, "SİGARA": 1, "GIDA": 2},
+        "KAĞIT": {"KAĞIT": 24, "EV": 1, "KOZMETİK": 1, "DETERJAN TEMİZLİK": 3, "GIDA": 2},
+        "MEYVE SEBZE": {"MEYVE SEBZE": 148},
+        "SÜT KAHVALTILIK": {"KAĞIT": 2, "EV": 3, "SÜT KAHVALTILIK": 89, "ET TAVUK": 9, "DETERJAN TEMİZLİK": 1, "İÇECEK": 5, "GIDA": 6},
+        "KOZMETİK": {"EV": 1, "KAĞIT": 4, "SÜT KAHVALTILIK": 4, "KOZMETİK": 24, "BEBEK": 1, "DETERJAN TEMİZLİK": 1, "SİGARA": 1, "İÇECEK": 5, "GIDA": 5},
+        "BEBEK": {"SÜT KAHVALTILIK": 3, "KOZMETİK": 1, "BEBEK": 2, "GIDA": 1, "İÇECEK": 1},
+        "ET TAVUK": {"KAĞIT": 2, "SÜT KAHVALTILIK": 4, "ET TAVUK": 38, "GIDA": 1},
+        "DETERJAN TEMİZLİK": {"KAĞIT": 3, "EV": 1, "SÜT KAHVALTILIK": 2, "BEBEK": 1, "KOZMETİK": 1, "ET TAVUK": 1, "DETERJAN TEMİZLİK": 23, "SİGARA": 4, "GIDA": 9},
+        "SİGARA": {"SÜT KAHVALTILIK": 1, "SİGARA": 23},
+        "GIDA": {"KAĞIT": 5, "EV": 1, "SÜT KAHVALTILIK": 22, "MEYVE SEBZE": 1, "BEBEK": 1, "SİGARA": 6, "DETERJAN TEMİZLİK": 1, "GIDA": 342, "İÇECEK": 11},
+        "İÇECEK": {"EV": 2, "KAĞIT": 2, "SÜT KAHVALTILIK": 9, "MEYVE SEBZE": 1, "DETERJAN TEMİZLİK": 2, "SİGARA": 1, "İÇECEK": 97, "GIDA": 13}
+      }
+    },
+    "kararr_agci": {
+      "dogrulluk_yzdesi": 87.46,
+      "tahmiin_suresi_ms": 2,
+      "kulanilan_belek_kb": 1024,
+      "karmasik_matris": {
+        "EV": {"EV": 19, "KAĞIT": 5, "GIDA": 2},
+        "KAĞIT": {"KAĞIT": 30, "EV": 1},
+        "MEYVE SEBZE": {"MEYVE SEBZE": 148},
+        "SÜT KAHVALTILIK": {"SÜT KAHVALTILIK": 89, "GIDA": 14, "İÇECEK": 12},
+        "KOZMETİK": {"KAĞIT": 2, "SÜT KAHVALTILIK": 2, "KOZMETİK": 35, "GIDA": 7},
+        "BEBEK": {"KAĞIT": 1, "BEBEK": 2, "GIDA": 1, "İÇECEK": 4},
+        "ET TAVUK": {"SÜT KAHVALTILIK": 10, "ET TAVUK": 34, "GIDA": 1},
+        "DETERJAN TEMİZLİK": {"KAĞIT": 2, "DETERJAN TEMİZLİK": 40, "GIDA": 3},
+        "SİGARA": {"SİGARA": 24},
+        "GIDA": {"SÜT KAHVALTILIK": 10, "GIDA": 371, "İÇECEK": 9},
+        "İÇECEK": {"SÜT KAHVALTILIK": 19, "İÇECEK": 87, "GIDA": 21}
+      }
+    }
+  }
+}

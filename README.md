@@ -44,6 +44,11 @@ Full report: [docs/report.pdf](docs/report.pdf)
 ![Report page 4](docs/images/report-page-4.png)
 ![Report page 5](docs/images/report-page-5.png)
 
+## Authors
+
+- [Hani Ashrafi](https://github.com/H1ashrafi)
+- [Hasan Hüseyin Yüksel](https://github.com/Hasan-Huseyin-Yuksel)
+
 ## License
 
 Free for personal, educational and research use. **Commercial use (selling, publishing the app in a store, or using it in a paid product) is not allowed without written permission.** See `LICENSE` (PolyForm Noncommercial 1.0.0).
